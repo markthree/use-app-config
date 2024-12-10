@@ -4,6 +4,6 @@
   "main": "index.js",
   "scripts": {},
   "devDependencies": {
-    "name": "workspace:0.0.0"
+    "use-app-config": "workspace:*"
   }
 }

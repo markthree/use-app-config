@@ -24,7 +24,7 @@
     "dev": "pnpm build:stub",
     "prepublishOnly": "pnpm build",
     "play": "pnpm -C example run dev",
-    "release": "bumpp --commit --push --tag && npm publish"
+    "release": "bumpp --commit --push --tag"
   },
   "keywords": [
     "lib",

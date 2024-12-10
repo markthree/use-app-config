@@ -1,4 +1,4 @@
 import { resolve } from 'path'
-const foo = 1
+const foo = 2
 
 export { resolve, foo }
